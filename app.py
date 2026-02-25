@@ -12,7 +12,7 @@ app = Flask(__name__)
 @app.route("/")
 def F_HOME():
   V_RESPUESTA = {
-    "message": "Hola desde la app DevOps",
+    "message": "Hola desde la app DevOps prueba completa",
     "status": "ok"
   }
   return jsonify(V_RESPUESTA)
