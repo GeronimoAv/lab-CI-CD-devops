@@ -57,17 +57,19 @@
 
 ## Pantallazos Requeridos
 
-1. **Pipeline CI en GitHub Actions**
+1. **pruebas unitarias**
+   - ![PRUEBAS UNITARIAS](assets/image-6.png)
+2. **Pipeline CI en GitHub Actions**
    - ![CI](assets/image-1.png)
 
-2. **Pipeline CD en Jenkins**
+3. **Pipeline CD en Jenkins**
    - ![CD](assets/image-2.png)
 
-3. **DockerHub**
+4. **DockerHub**
    - ![dockerhub](assets/image-3.png)
    - ![docker](assets/image-5.png)
 
-4. **Aplicación corriendo en local**
+5. **Aplicación corriendo en local**
    - Navegador en `http://localhost:5000` mostrando respuesta JSON
     ![APLICACION](assets/image-4.png)
 
